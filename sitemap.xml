@@ -5,16 +5,23 @@
   
   <url>
     <loc>http://yelken.github.io/blog/archives/</loc>
-    <lastmod>2014-08-24T15:02:17-03:00</lastmod>
+    <lastmod>2014-08-24T22:26:59-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://yelken.github.io/</loc>
-    <lastmod>2014-08-24T15:02:17-03:00</lastmod>
+    <lastmod>2014-08-24T22:26:59-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yelken.github.io/about/</loc>
+    <lastmod>2014-08-24T22:26:59-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   
   
