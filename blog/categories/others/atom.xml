@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Yelken Gonzales]]></title>
-  <link href="http://yelken.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: others | Yelken Gonzales]]></title>
+  <link href="http://yelken.github.io/blog/categories/others/atom.xml" rel="self"/>
   <link href="http://yelken.github.io/"/>
   <updated>2014-08-24T22:43:17-03:00</updated>
   <id>http://yelken.github.io/</id>
@@ -20,13 +20,10 @@
     <id>http://yelken.github.io/blog/2014/08/24/welcome-to-my-blog</id>
     <content type="html"><![CDATA[<h2>programming, enterprise, new ideas, my experiences, my travels in the world and others</h2>
 
-<figure class='code'><figcaption><span>Welcome - Welcome.java </span></figcaption>
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>Welcome - Welcome.java </span></figcaption>
 <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;Welcome to my blog&quot;</span><span class="o">)</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(&amp;</span><span class="n">ldquo</span><span class="o">;</span><span class="n">Welcome</span> <span class="n">to</span> <span class="n">my</span> <span class="n">blog</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="o">;)</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 ]]></content>
   </entry>
   
